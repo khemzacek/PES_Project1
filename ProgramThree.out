@@ -1,0 +1,16 @@
+Original Input:
+ 0XFACE
+ 0b1111101011001110
+ 3 of Last 4 Bits On = TRUE
+Reverse Bytes:
+ 0XCEFA
+ 0b1100111011111010
+ 3 of Last 4 Bits On = FALSE
+Rotate 6 Bits Left:
+ 0XBEB3
+ 0b1011111010110011
+ 3 of Last 4 Bits On = FALSE
+Rotate 4 Bits Right:
+ 0X3BEB
+ 0b0011101111101011
+ 3 of Last 4 Bits On = TRUE
